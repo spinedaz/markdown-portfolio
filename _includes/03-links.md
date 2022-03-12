@@ -1,1 +1,1 @@
-[GitHub](https://www.linkedin.com/in/sara-pineda-zapata/)
+[Linkedin](https://www.linkedin.com/in/sara-pineda-zapata/)

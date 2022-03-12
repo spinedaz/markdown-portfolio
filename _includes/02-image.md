@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of auroras](D:/Fotos/Lapland/IMG-20210322-WA0004.jpg)
